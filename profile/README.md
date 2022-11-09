@@ -1,4 +1,4 @@
-A cosmic knowledge management system.
+A cosmic-themed knowledge management system.
 
 This organization houses my universal knowledge system, a _Knowledge IDE_ of sorts. It doesn't include my knowledge base, but tools to manage it.
 
